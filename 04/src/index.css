@@ -1,0 +1,14 @@
+ 
+ button{
+   margin: 30px;
+  padding: 10px 40px;
+  border-radius: 7px;
+ }
+ h1{
+    background-color: bisque;
+    width: fit-content;
+    padding: 20px 70px;
+    border-radius: 7px;
+   font-size: 100px;
+margin: 20px;
+ }
